@@ -1,4 +1,4 @@
-< align="center">
+<p align="center">
 ![BannerDS](https://user-images.githubusercontent.com/76501426/125814128-dd48cb45-d17a-4c96-88b0-b262399209a7.png)
 </p>
 
