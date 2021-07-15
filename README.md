@@ -3,14 +3,22 @@
 <p/>
 
 # Bernardo Alves
-  Estudante de economia e ciência de dados com ótima capacidade de comunicação, analítico e motivado pela solução de problemas, seja individualmente ou em equipe.
+  Estudante de economia e de ciência de dados com ótima capacidade de comunicação, analítico e motivado pela solução de problemas, seja individualmente ou em equipe.
   
   
   
 ## Portfolio:
 
-* **Titanic**: Análise de taxa de enriquecimento dos passageiros do Titanic
 
-<a href="https://github.com/carlosfab/template_portfolio"> Something </a>
-
-##
+* <a href="https://github.com/bmalves/DSPortfolio"> **Previsão de Retornos aplicada a Ações da  B3** </a>
+  * Modelo de inferência de retornos da B3 utilizando Support Vector Machine
+  * Python
+* <a href="https://github.com/bmalves/DSPortfolio"> **Análise Churn** </a>
+  * Análise de Churn do Produto X da Empresa X
+  * Python, SQL, Power BI
+* <a href="https://github.com/bmalves/DSPortfolio"> **Automatização de envio de Newsletter** </a>
+  * Envio automatizado de newsletter por email
+  * Python
+* <a href="https://github.com/bmalves/DSPortfolio"> **Dashboard Value Investing** </a>
+  * Dashboard automatizado com múltiplos e rankings de Ações da B3
+  * Python, Power BI
