@@ -1,7 +1,6 @@
-  ![Design sem nome (2)](https://user-images.githubusercontent.com/76501426/125813514-00f85b80-daac-4bef-9484-3f4bf97e2b12.png)
-
-  
-  ![Data Science](https://user-images.githubusercontent.com/76501426/125810787-27c884f8-23f4-4df1-b485-ae5d8f6a0dc5.png)
+< align="center">
+![BannerDS](https://user-images.githubusercontent.com/76501426/125814128-dd48cb45-d17a-4c96-88b0-b262399209a7.png)
+</p>
 
 
 # Bernardo Alves
