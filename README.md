@@ -1,6 +1,4 @@
-<p align="center">
     ![BannerDS](https://user-images.githubusercontent.com/76501426/125814359-1f9c81ac-c17c-4a15-bbe6-671e072f41f2.png)
-</p>
 
 
 # Bernardo Alves
