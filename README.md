@@ -3,7 +3,7 @@
 <p/>
 
 # Bernardo Alves
-  Estudante de economia e de ciência de dados com ótima capacidade de comunicação, analítico e motivado pela solução de problemas, seja individualmente ou em equipe.
+  Estudante de Economia e de Ciência de Dados.
   
   
   
